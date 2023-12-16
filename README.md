@@ -43,6 +43,7 @@ This simple tool is used for splitting up the contents of your clipboard, then p
   - Taking the comma as priority, whilst removing the spaces.
 - Can split text separated by spaces only
 - Can split text separated by commas only
+- Can split text separated by lines
 - Once the data you have copied has been split, it will then be pasted one after the other.
 
 ### Install instructions
