@@ -8,13 +8,19 @@ This is a python app created using `tkinter`.
 - Contains various commands within each section
 
 ### Install instructions
+1. Install `python 3`
+2. Insttall `tkinter`
+3. 
 
 ## paste_flow.py
-This simple tool is used for breaking up a list of data within your clipboard and then pasting each line of data one at a time, pressing the enter key between each paste.
-- Can break up text separated by commas and spaces
+This simple tool is used for splitting up the contents of your clipboard, then pasting each line one at a time, pressing the enter key between each paste.
+- Can split text separated by commas and spaces
   - Taking the comma as priority, whilst removing the spaces.
-- Can break up text separated by spaces only
-- Can break up text separated by commas only
+- Can split text separated by spaces only
+- Can split text separated by commas only
 - Once the data you have copied has been split, it will then be pasted one after the other.
 
 ### Install instructions
+1. Install `python 3`
+2. Insttall `tkinter`
+3. 
